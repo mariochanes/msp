@@ -1,9 +1,10 @@
 ---
 title: Donate
-featured_image: ''
-omit_header_text: true
-description: We'd love to hear from you
-type: page
-menu: main
+theme_version: '2.8.2'
+cascade:
+  featured_image: '/images/mustardplant.jpg'
+description: Any amount can help.
+
 ---
+
 
