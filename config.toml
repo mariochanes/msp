@@ -1,4 +1,4 @@
-baseURL = "https://mariochanes.github.io/"
+baseURL = "https://mariochanes.github.io/msp/"
 languageCode = 'en-us'
 title = "MSP"
 resourceDir = "../resources"
