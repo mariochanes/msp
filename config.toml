@@ -1,11 +1,11 @@
-baseURL = ""
+baseURL = "https://mariochanes.github.io/"
 languageCode = 'en-us'
 title = "MSP"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 theme = "ananke"
