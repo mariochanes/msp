@@ -1,5 +1,5 @@
 ---
-title: Donate
+title: Contact
 theme_version: '2.8.2'
 featured_image: '/images/mustardplant.jpg'
 description: Support here.
@@ -8,4 +8,10 @@ menu: main
 omit_header_text: true
 ---
 
+https://www.gofundme.com/f/feed-the-homeless-of-portland
 
+Ernie Kovats
+
+46 Noyes St. Portland, Me 04103
+
+eekovats@hotmail.com
